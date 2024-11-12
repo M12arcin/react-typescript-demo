@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+//basic function in root class TypeScript
 function App() {
   return (
     <div className="App">
